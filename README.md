@@ -1,0 +1,4 @@
+bmwcoin
+=======
+
+Cryptocurrency coin
